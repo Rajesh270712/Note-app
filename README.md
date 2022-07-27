@@ -2,5 +2,7 @@
 <br/>
 Note taking App
 <br/>
-## Tech Stack : Mongoose | express | javascript
+## Tech Stack 
+<br/>
+Mongoose | express | javascript
 
